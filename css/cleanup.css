@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}  
+    
+  .tag-1{
+    background: url(../images/download.jpeg) no-repeat;
+    z-index: 6;
+    display: block;
+}
+
+#wall #tag-2{
+    background: url(../images/graffiti\ 1.jpeg)no-repeat;
+    z-index: 8;
+    display: block;
+    
+}
+
